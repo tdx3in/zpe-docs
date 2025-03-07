@@ -51,7 +51,9 @@ jobs:
           node-version: '16' # Use a compatible Node.js version
       - name: Install PostCSS and dependencies
         run: |
-          npm install -g postcss-cli autoprefixer rtlcss
+          npm install postcss-cli autoprefixer rtlcss
+      - name: Clear Hugo cache
+        run: hugo mod clean
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
