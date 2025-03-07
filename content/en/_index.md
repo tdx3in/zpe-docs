@@ -2,19 +2,13 @@
 title: ZPE Systems
 ---
 
-{{< blocks/cover title="Welcome to ZPE Systems Product Documentation!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
-{{< blocks/link-down color="info" >}}
+{{< blocks/cover title="Welcome to ZPE Systems Product Documentation!" image_anchor="top" height="half" >}}
+
+Set up, configure, or manage your product. Access all information in one single platform.
 {{< /blocks/cover >}}
 
 
-{{% blocks/lead color="primary" %}}
+<!-- {{% blocks/lead color="primary" %}}
 Goldydocs provides a single web UI providing visibility into porridge
 temperature, chair size, and bed softness metrics! You can even find out who's
 been eating **your** porridge.
@@ -24,54 +18,28 @@ to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/lead %}}
 
 
-{{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
+{{% blocks/section color="light" %}} -->
 
-Please follow this space for updates!
-{{% /blocks/feature %}}
+<div style="display: flex; justify-content: space-around; gap: 20px; padding: 20px;">
 
+<a href="/docs/" style="width: 250px; height: 150px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9; color: #333; transition: transform 0.3s, box-shadow 0.3s; text-decoration: none;" onmouseover="this.style.boxShadow='0 4px 8px rgba(0,0,0,0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='none'">
+  <i class="fas fa-cogs" style="font-size: 40px; color: #007BFF;"></i>
+  <h4>Nodegrid OS</h4>
+  <p>Explore all the powerful features of ZPE Systems products.</p>
+</a>
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
+<a href="/docs/" style="width: 250px; height: 150px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9; color: #333; transition: transform 0.3s, box-shadow 0.3s; text-decoration: none;" onmouseover="this.style.boxShadow='0 4px 8px rgba(0,0,0,0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='none'">
+  <i class="fas fa-book" style="font-size: 40px; color: #28a745;"></i>
+  <h4>ZPE Cloud</h4>
+  <p>Access detailed documentation, guides, and resources.</p>
+</a>
 
+<a href="/community/" style="width: 250px; height: 150px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9; color: #333; transition: transform 0.3s, box-shadow 0.3s; text-decoration: none;" onmouseover="this.style.boxShadow='0 4px 8px rgba(0,0,0,0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='none'">
+  <i class="fas fa-users" style="font-size: 40px; color: #dc3545;"></i>
+  <h4>Reference Guides</h4>
+  <p>Join discussions and collaborate with our vibrant community.</p>
+</a>
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
+</div>
 
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
-{{% /blocks/section %}}
-
-
-{{% blocks/section type="row" %}}
-
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
 {{% /blocks/section %}}
