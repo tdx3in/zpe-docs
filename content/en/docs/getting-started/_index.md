@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title:  Getting Started with Nodegrid Manager
 description: What does your user need to know to try your project?
 categories: [Examples, Placeholders]
 tags: [test, docs]
@@ -9,7 +9,7 @@ weight: 2
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
-
+<!-- 
 Information in this section helps your user try your project themselves.
 
 * What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
@@ -32,4 +32,4 @@ Is there any initial setup users need to do after installation to try your proje
 
 ## Try it out!
 
-Can your users test their installation, for example by running a command or deploying a Hello World example?
+Can your users test their installation, for example by running a command or deploying a Hello World example? -->
