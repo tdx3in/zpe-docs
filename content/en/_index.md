@@ -65,19 +65,19 @@ Set up, configure, or manage your product. Access all information in one single 
 </style>
 
 <div class="tiles-container">
-  <a href="/docs/" class="tile">
+  <a href="/new-docs/docs/" class="tile">
     <i class="fas fa-cogs tile-icon" style="color: #007BFF;"></i>
     <h4>Nodegrid OS</h4>
     <p>Explore all the powerful features of ZPE Systems products.</p>
   </a>
 
-  <a href="/docs/" class="tile">
+  <a href="/new-docs/docs/" class="tile">
     <i class="fas fa-book tile-icon" style="color: #28a745;"></i>
     <h4>ZPE Cloud</h4>
     <p>Access detailed documentation, guides, and resources.</p>
   </a>
 
-  <a href="/docs/" class="tile">
+  <a href="/new-docs/docs/" class="tile">
     <i class="fas fa-users tile-icon" style="color: #dc3545;"></i>
     <h4>Reference Guides</h4>
     <p>Join discussions and collaborate with our vibrant community.</p>
